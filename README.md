@@ -11,4 +11,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
  ### :fire: My Stats :
-  https://github-readme-streak-stats.herokuapp.com/?user=yitagesuketema
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=yitagesuketema"/>
