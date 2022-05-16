@@ -11,3 +11,5 @@
 </div>
  ### :fire: My Stats :
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=yitagesuketema"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yitagesuketema&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
