@@ -10,7 +10,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
 
- ###:fire: My Stats :
+  fire: My Stats :
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=yitagesuketema"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yitagesuketema&show_icons=true&theme=radical)
