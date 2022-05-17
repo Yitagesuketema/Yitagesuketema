@@ -1,4 +1,4 @@
-<h1 align="center">** Hi ** 👋, I'm Yitagesu</h1>
+<h1 align="center">Hi👋, I'm Yitagesu</h1>
 <h3 align="center">A passionate frontend developer and Backend Developer from Ethiopia</h3>
 
 - 🌱 I’m currently learning **ALX Software Engineering Programme**
