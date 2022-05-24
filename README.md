@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ALX Software Engineering Programme**
 
-- 💬 Ask me about **Html,css,javascript,Bootstrap,C,C++,Python**
+- 💬 Ask me about **Html,Css,javascript,Bootstrap,C,C++,Php,Codeigniter,Python**
 
 - 📫 How to reach me **Yitagesuketema@gmail.com**
 
